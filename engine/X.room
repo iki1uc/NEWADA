@@ -1,0 +1,14 @@
+AXIS: T° (inherit)
+SYMBOL: ↧
+RESPO: R0
+
+TYPE: Universal
+REAL: X
+VIRTUAL: X°
+
+MATRIX: 9×9
+OPERATOR: 9×9-Operator.me
+
+META: META²³
+PREFETCH: ACTIVE
+
